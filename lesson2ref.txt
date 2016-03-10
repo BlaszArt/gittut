@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 - tworzy sie nowy folder .git
 - od tej chwili moge dodawac commits i sledzic historie zmian projektu
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- do stage area dodaje pliki, ktore chce pozniej umiescic w repozytorium pod okreslonym commit
